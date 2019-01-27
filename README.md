@@ -1,10 +1,14 @@
 # **OCD**
-#### Organized & Categorized Data
+Organized & Categorized Data
 
 --------------------------------------------------------------------------------------------
 
 ## AUTHOR
-Erim "xpelican" Bilgin | https://linkedin.com/in/erim-bilgin
+Erim _"xpelican"_ Bilgin | https://linkedin.com/in/erim-bilgin
+
+--------------------------------------------------------------------------------------------
+
+![alt text](https://i.ibb.co/dfMGmfd/ocd-logo.png)
 
 --------------------------------------------------------------------------------------------
 
